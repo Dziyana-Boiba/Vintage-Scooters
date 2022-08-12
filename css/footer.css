@@ -1,0 +1,17 @@
+.footer__row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 100px 0;
+  background-color: #f7f7f7;
+}
+.footer .social__link img {
+  width: 20px;
+}
+
+.social__link img {
+  width: 20px;
+}
